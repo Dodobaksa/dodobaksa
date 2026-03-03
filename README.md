@@ -8,6 +8,7 @@
 추천 시스템, 시계열 예측, NLP 등 다양한 도메인의 프로젝트를 **End-to-End로 경험**했습니다.
 
 🔗 Portfolio: https://garnet-guide-ce4.notion.site/Hello-I-m-Do-hyeon-Lim-8e2499ddbacc43f9ad3b6115680a54a0 
+
 📬 Email: ehgus7011@naver.com
 
 ---
