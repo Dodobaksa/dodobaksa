@@ -76,7 +76,7 @@
 ---
 
 ## 📫 Contact
-📧 Email: **ehgus7011@naver.comm**  
+📧 Email: **ehgus7011@naver.com**  
 📄 Portfolio: **[Notion Portfolio](https://garnet-guide-ce4.notion.site/Hello-I-m-Do-hyeon-Lim-8e2499ddbacc43f9ad3b6115680a54a0)**  
 🐙 GitHub: **https://github.com/Dodobaksa**
 
