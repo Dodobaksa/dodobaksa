@@ -41,9 +41,10 @@
 ### 🧠 맞춤형 운동 루틴 추천 시스템 (Seq2Seq 기반)
 **팀 프로젝트 / Seq2Seq 기반 운동 루틴 텍스트 생성 모델**
 
-- 나이,키,몸무게를 입력하면 준비운동과 본 운동 루틴을 추
+- 나이,키,몸무게를 입력하면 준비운동과 본 운동 루틴을 추천
 - 운동목표와 수준을 입력하면 거기에 맞는 운동 루틴 추천
 - 대시보드 형태로 제작, 운동 영상 검색 기능도 구현
+  
 **Tech:** Python, Seq2Seq, NLP, LSTM, TensorFlow/Keras, Selenium  
 🔗 **Repo:** https://github.com/Dodobaksa/Workout-Routine-Recommendation?tab=readme-ov-file
 
@@ -55,7 +56,8 @@
 - 팀 프로젝트(3개월): 전처리·모델링 전반 기여(기여도 약 70%)  
 - 10년치 소음·기상·수위 데이터 정제 및 전처리 수행  
 - DNN/LightGBM 모델 비교, LightGBM 성능 우수확인
-- 하천 수위, 가뭄지수, 유출률 등 다양한 파생변수 생성 
+- 하천 수위, 가뭄지수, 유출률 등 다양한 파생변수 생성
+  
 **Tech:** Python, LightGBM, Time Series, Scikit-Learn  
 🔗 **Repo:** https://github.com/Dodobaksa/AI-based-Groundwater-Level-Fluctuation-Prediction
 
@@ -67,6 +69,7 @@
 - 한강 수위 예측을 위한 시계열 기반 AI 모델 개발    
 - 이상치 및 결측치를 예측모델을 활용하여 정교하게 보간
 - 수문·기상 요인들을 고려한 다양한 파생변수 생성
+  
 **Tech:** Python, Time Series Forecasting, ML/DL, Feature Engineering  
 🔗 **Repo:** https://github.com/Dodobaksa/AI-competition-for-predicting-the-water-level-of-the-Han-River-according-to-the-flood-safety-operati
 ---
