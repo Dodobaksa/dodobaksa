@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Weights %26 Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ### 📊 Visualization
@@ -39,8 +38,8 @@
 ---
 
 ## 📫 Contact
-📧 Email: **your_email@example.com**  
-📄 Portfolio: **[Notion Portfolio](https://garnet-guide-ce4.notion.site/Hello-I-m-Do-hyeon-Lim-8e2499ddbacc43f9ad3b6115680a54a0?pvs=74)**  
+📧 Email: **ehgus7011@naver.comm**  
+📄 Portfolio: **[Notion Portfolio](https://garnet-guide-ce4.notion.site/Hello-I-m-Do-hyeon-Lim-8e2499ddbacc43f9ad3b6115680a54a0)**  
 🐙 GitHub: **https://github.com/Dodobaksa**
 
 ---
